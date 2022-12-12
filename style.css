@@ -1,0 +1,5 @@
+.collection .collection-item {
+    background-color: rgb(249, 233, 14);
+    line-height: 1.5rem;
+    border: solid rgba(255, 119, 0, 0.899);
+}
